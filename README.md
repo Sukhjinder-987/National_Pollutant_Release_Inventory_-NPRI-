@@ -1,4 +1,4 @@
 # National_Pollutant_Release_Inventory_-NPRI-
 The NPRI Project aims to build a machine learning prediction model based on the NPRI dataset for predicting emissions of nitrogen oxides and carbon monoxide for different companies in the oil and gas extraction sector (NAICS code 211110) in 2023, based on fluctuations in crude oil prices.
 
-Problem Statement:- 
+Problem Statement:- The NPRI Project faces many challenges in reducing the release of the gases that effect the environment as well as also fluctuate the crude oil prices. To deal with these issues, the project aims to build a machine learning model to analyse the big data and get valuable insights from the dataset for making a predictive model to predict the emissions of nitrogen oxides and carbon monoxide in the oil and gas extraction sector with the increase or decrease in the crude oil prices that helps to enhance data-driven decision-making from reliable predictions.
